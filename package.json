@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/jonathanbennett/prerender-redis-cache",
   "dependencies": {
-    "redis": "^0.10.3"
+    "redis": "^2.8.0"
   }
 }
